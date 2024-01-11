@@ -11,7 +11,6 @@
 
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font></p>
-    <img align="right" src="" height="250" />
     <p><font color="blue">👨‍💻 I live in Bhiwandi,Thane,India🇮🇳</font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
@@ -87,12 +86,3 @@
 
 </div>
 
-<div align="center">
-  <h2> Quote </h2>
-
-<div align="center">
-    
-</p>
-
-[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=bcd4e6&section=footer">
