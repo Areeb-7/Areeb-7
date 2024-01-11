@@ -39,15 +39,6 @@
   <a href="https://twitter.com/_Jeevan_naidu_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
   </a>
-  <a href="https://www.behance.net/jeevannaidu1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="behance logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/2023_jeevann" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.patreon.com/Nirukti" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="patreon logo"  />
-  </a>
 </div>
 
 <p align="center">
