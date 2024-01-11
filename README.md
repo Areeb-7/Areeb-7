@@ -8,6 +8,7 @@
     <font color="blue">About me:</font>
 
 </h3>
+<img src="https://github.com/Areeb-7/Areeb-7/blob/main/gif.webp" align="right" height="300" width="300"/>
 
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font></p>
