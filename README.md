@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
   
   </a>
-  <a href="https://twitter.com/_Jeevan_naidu_" target="_blank">
+  <a href="https://twitter.com/Shah_Areeb07" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
   </a>
 </div>
@@ -45,7 +45,7 @@
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=git,github,c,vscode,blender,figma,wordpress&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,vscode,&theme=light" />
     <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
     <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
