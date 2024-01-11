@@ -64,9 +64,12 @@
 
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <div align="center">
   <h2> My Contributions </h2>
- <img alt="snake eating my contributions" src="https://github.com/Areeb-7/Areeb-7/output/github-contribution-grid-snake.svg" />
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Areeb-7/Areeb-7/output/github-contribution-grid-snake.svg" />
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
