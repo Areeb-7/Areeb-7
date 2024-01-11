@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Areeb-7\.Areeb-7"/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🙏+Welcome!;+I'm+Areeb+Shah!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!;+I'm+Areeb+Shah!;" />
 </h1>
 
 <h3 align="center">Passionate computer science student immersed in the enchanting realms of ancient Bhārata 🛕</h3>
 
 <br/>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/422Hel8OeHEAAAAi/doraemon-cute.gif"/>
+
 
 <div align="left">
 
