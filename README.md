@@ -4,23 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!;+I'm+Areeb+Shah!;" />
 </h1>
 
-<h3 align="center">Passionate computer science student immersed in the enchanting realms of ancient Bhārata 🛕</h3>
+<h3 align="left">
+    <font color="blue">About me:</font>
 
-<br/>
-
-
+</h3>
 
 <div align="left">
-
-🧑🏻‍💻 I am a **first year Btech student** at **ITM Skills University**
- 
-🚀 Coding enthusiast weaving a digital tapestry that harmonizes my diverse passions into innovative solutions
-
-🌱 I’m currently learning **Python**.
-
-⚡ I am also interested in **Animation**, **XR**, **AI** and in **history**.
-
- </div>
+    <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font></p>
+    <img align="right" src="" height="250" />
+    <p><font color="blue">👨‍💻 I live in Bhiwandi,Thane,India🇮🇳</font></p>
+    <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
+    <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
+    <p><font color="blue">🌱 Currently diving deep into Python</font></p>
+</div>
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -45,13 +41,12 @@
   <a href="https://skillicons.dev">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=git,github,c,vscode,&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,vscode&theme=light" />
     <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
     <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
   </a>
-    <img align="left" alt="GIF" src="https://storage.googleapis.com/sticker-prod/liGbkkeb2daR2aGjEjVM/18-2.thumb128.png" height="8%" width="8%"/>
-    <img align="right" alt="GIF" src="https://media1.tenor.com/m/6rQoxt4XCmUAAAAC/hello.gif" height="8%" width="8%"/>
+
 </div>
 </p>
 
