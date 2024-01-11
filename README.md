@@ -39,10 +39,12 @@
   </a>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h2>Skill & Languages:</h2>
-<p>
+<h2>Skills & Languages:</h2>
+<div align="left">
+    <h4>Coding Environments:</h4>
+    <p>
 <p align="left">
-  <a href="https://skillicons.dev">
+<!--   <a href="https://skillicons.dev"> -->
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://skillicons.dev/icons?i=git,github,c,vscode&theme=light" />
@@ -52,8 +54,7 @@
   </a>
 
 </div>
-</p>
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   <h2> My Contributions </h2>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
