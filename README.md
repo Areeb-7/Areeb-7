@@ -44,12 +44,22 @@
     <h4>Coding Environments:</h4>
     <p>
 <p align="left">
-<!--   <a href="https://skillicons.dev"> -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
+    <div align="left">
+    <h4>Languages:</h4>
+    <p>
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" />
-    <img src="https://skillicons.dev/icons?i=git,github,c,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c&theme=light" />
     <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_300,h_300/https://fullsteam.mit.edu/wp-content/uploads/2020/03/ScratchLogo-300x300.png" alt="icon" width="50" height="50" />
-    <img src="https://media.licdn.com/dms/image/D5612AQGny7xsSSLQ-A/article-cover_image-shrink_600_2000/0/1699480666080?e=2147483647&v=beta&t=3jmL98hJa2MwOmEPsQZ9t3zAH3CjBLEIL-ugNdJ31tY" width="50" height="50">
+    <div align="left">
+    <h4>Version Control:</h4>
+    <p>
+    <img src="https://skillicons.dev/icons?i=git,github&theme=light" />
+    <div align="left">
+    <h4>No code:</h4>
+    <p>
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
   </a>
 
