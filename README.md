@@ -11,7 +11,7 @@
 <img src="https://github.com/Areeb-7/Areeb-7/blob/main/gif.webp" align="right" height="300" width="300"/>
 
 <div align="left">
-    <p><font color="blue">Enthusiastic Computer Science Student | Code Lover | Football Enthusiast</font></p>
+    <p><font color="blue">Enthusiastic Computer Science Student | Football Enthusiast</font></p>
     <p><font color="blue">👨‍💻 I live in Bhiwandi,Thane,India🇮🇳</font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p>
