@@ -8,7 +8,7 @@
     <font color="blue">About me:</font>
 
 </h3>
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" align="right" height="300" width="450"/>
+<img src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" align="right" height="300" width="450"/>
 
 <div align="left">
     <p><font color="blue">Enthusiastic Computer Science Student | Football Enthusiast</font></p>
