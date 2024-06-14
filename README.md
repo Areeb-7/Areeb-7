@@ -57,7 +57,6 @@
 <img src="https://e7.pngegg.com/pngimages/66/60/png-clipart-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-thumbnail.png" width="30" height="40" />
 <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/figma-icon-1366x2048-tdlpz5c4.png" width="30" height="40"/>
     <div align="left">
     <h4>Version Control:</h4>
     <p>
@@ -67,6 +66,7 @@
     <p>
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
     <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
+    <img src="https://static-00.iconduck.com/assets.00/figma-icon-1366x2048-tdlpz5c4.png" width="30" height="40"/>
     </p>
   </a>
 
