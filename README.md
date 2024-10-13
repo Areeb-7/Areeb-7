@@ -15,7 +15,7 @@
     <p><font color="blue">👨‍💻 I live in Bhiwandi,Thane,India🇮🇳</font></p>
     <p><font color="blue">👨‍💻 second-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Coding enthusiast exploring the world of programming</font></p> 
-    <p><font color="blue">🌱 Currently diving deep into Python</font></p>
+    <p><font color="blue">🌱 Currently diving deep into Data Structures and Algorithms</font></p>
 </div> 
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
