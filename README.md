@@ -66,7 +66,7 @@
     <p>
     <img src="https://www.appsheet.com/Content/img/material/appsheet_rebrand_logo.svg" width="50" height="50">
     <img src="https://img.shields.io/badge/wix-0078d7.svg?style=for-the-badge&logo=&logoColor=black" width="50" height="50" theme="light">
-    <img src="https://static-00.iconduck.com/assets.00/figma-icon-1366x2048-tdlpz5c4.png" width="30" height="40"/>
+    <!-- <img src="https://static-00.iconduck.com/assets.00/figma-icon-1366x2048-tdlpz5c4.png" width="30" height="40"/> -->
     </p>
   </a>
 
